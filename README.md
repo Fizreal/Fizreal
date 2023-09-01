@@ -1,5 +1,5 @@
 💫 About Me:<br>
-:wave: Hi, I'm Adam and I am a full-stack software developer in Toronto, ON<br>🌱 I’m completing General Assembly's Software Engineering Bootcamp<br>🔭 I’m currently working on a full-stack web application with the MERN stack
+:wave: Hi, I'm Adam and I am a full-stack software developer in Toronto, ON<br>🌱 I graduated General Assembly's Software Engineering Bootcamp<br>🔭 I’m currently working on a full-stack web application with Vue.js
 
 
 ## 🌐 Socials:
