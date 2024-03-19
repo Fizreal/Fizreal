@@ -1,5 +1,5 @@
 💫 About Me:<br>
-:wave: Hi, I'm Adam and I am a full-stack software developer in Toronto, ON<br>🌱 I graduated General Assembly's Software Engineering Bootcamp<br>🔭 I’m currently working on a full-stack web application with Vue.js
+:wave: Hi, I'm Adam and I am a full-stack software developer in Toronto, ON<br>🌱 I graduated General Assembly's Software Engineering Bootcamp<br>🏢 I am leading frontend developmenet for the INTRFAC3 product at Catharsis Design<br>🔭 I’m currently working on a full-stack web application using Next.js and WebSockets (socket.io)
 
 
 ## 🌐 Socials:
